@@ -3,3 +3,4 @@ minio/minio:RELEASE.2023-03-20T20-16-18Z
 milvusdb/milvus:v2.4.5
 ghcr.io/huggingface/text-generation-inference:2.0
 chatimage/chatchat:0.3.0-2024-0624
+vllm/vllm-openai
