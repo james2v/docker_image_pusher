@@ -5,3 +5,7 @@ ghcr.io/huggingface/text-generation-inference:2.0
 chatimage/chatchat:0.3.0-2024-0624
 vllm/vllm-openai
 eosphorosai/dbgpt:latest
+docker.io/vesoft/nebula-metad:nightly
+docker.io/vesoft/nebula-storaged:nightly
+docker.io/vesoft/nebula-graphd:nightly
+docker.io/vesoft/nebula-console:nightly
