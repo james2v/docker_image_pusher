@@ -4,3 +4,4 @@ milvusdb/milvus:v2.4.5
 ghcr.io/huggingface/text-generation-inference:2.0
 chatimage/chatchat:0.3.0-2024-0624
 vllm/vllm-openai
+eosphorosai/dbgpt:latest
