@@ -10,3 +10,4 @@ docker.io/vesoft/nebula-storaged:nightly
 docker.io/vesoft/nebula-graphd:nightly
 docker.io/vesoft/nebula-console:nightly
 ghcr.io/huggingface/text-embeddings-inference:1.4
+ollama/ollama
