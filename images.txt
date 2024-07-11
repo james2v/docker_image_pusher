@@ -12,3 +12,4 @@ docker.io/vesoft/nebula-console:nightly
 ghcr.io/huggingface/text-embeddings-inference:1.4
 ollama/ollama
 ghcr.io/ggerganov/llama.cpp:server
+chatimage/chatchat:0.3.0-2024-0624
