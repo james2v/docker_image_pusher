@@ -13,3 +13,4 @@ ghcr.io/huggingface/text-embeddings-inference:1.4
 ollama/ollama
 ghcr.io/ggerganov/llama.cpp:server
 chatimage/chatchat:0.3.0-2024-0624
+bitnami/spark:latest
