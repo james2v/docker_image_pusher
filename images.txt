@@ -15,3 +15,4 @@ ghcr.io/ggerganov/llama.cpp:server
 chatimage/chatchat:0.3.0-2024-0624
 bitnami/spark:latest
 nvcr.io/nvidia/cuda:12.1.0-devel-ubuntu22.04
+neo4j:latest
