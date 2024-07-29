@@ -17,3 +17,4 @@ bitnami/spark:latest
 nvcr.io/nvidia/cuda:12.1.0-devel-ubuntu22.04
 neo4j:latest
 vllm/vllm-openai:v0.5.3.post1
+ghcr.io/huggingface/text-generation-inference:2.2.0
