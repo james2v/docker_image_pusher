@@ -20,3 +20,4 @@ vllm/vllm-openai:v0.5.3.post1
 ghcr.io/huggingface/text-generation-inference:2.2.0
 neo4j:5.22.0-community
 lmsysorg/sglang:latest
+docker.elastic.co/elasticsearch/elasticsearch:8.14.3
