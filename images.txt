@@ -24,3 +24,4 @@ docker.elastic.co/elasticsearch/elasticsearch:8.14.3
 nvcr.io/nvidia/pytorch:24.06-py3
 zhishuailii/spider_envs:latest
 redis/redis-stack:latest
+llamastack/llamastack-local-gpu
