@@ -25,3 +25,4 @@ nvcr.io/nvidia/pytorch:24.06-py3
 zhishuailii/spider_envs:latest
 redis/redis-stack:latest
 llamastack/llamastack-local-gpu
+vllm/vllm-openai:v0.6.2
