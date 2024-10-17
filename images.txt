@@ -26,3 +26,8 @@ zhishuailii/spider_envs:latest
 redis/redis-stack:latest
 llamastack/llamastack-local-gpu
 vllm/vllm-openai:v0.6.2
+pytorch/pytorch:2.4.1-cuda11.8-cudnn9-runtime
+pytorch/pytorch:2.4.1-cuda11.8-cudnn9-devel
+
+
+
