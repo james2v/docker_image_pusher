@@ -29,7 +29,7 @@ vllm/vllm-openai:v0.6.2
 pytorch/pytorch:2.4.1-cuda11.8-cudnn9-runtime
 pytorch/pytorch:2.4.1-cuda11.8-cudnn9-devel
 pytorch/pytorch:1.9.1-cuda11.1-cudnn8-runtime
-
+nvidia/cuda:12.2.2-runtime-ubuntu22.04
 
 
 
