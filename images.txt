@@ -32,5 +32,5 @@ pytorch/pytorch:1.9.1-cuda11.1-cudnn8-runtime
 nvidia/cuda:12.2.2-runtime-ubuntu22.04
 conda/miniconda3:latest
 nvcr.io/nvidia/tritonserver:24.09-trtllm-python-py
-
+nvcr.io/nvidia/tritonserver:24.09-py3-sdk
 
