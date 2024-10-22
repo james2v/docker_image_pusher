@@ -34,3 +34,4 @@ conda/miniconda3:latest
 fedirz/faster-whisper-server:latest-cuda
 lscr.io/linuxserver/faster-whisper:latest
 fedirz/faster-whisper-server:sha-210dab4-cuda
+onerahmet/openai-whisper-asr-webservice:latest-gpu
