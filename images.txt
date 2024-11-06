@@ -37,3 +37,4 @@ fedirz/faster-whisper-server:sha-210dab4-cuda
 onerahmet/openai-whisper-asr-webservice:latest-gpu
 paddlecloud/paddlespeech:develop-gpu-cuda10.2-cudnn7-latest
 continuumio/anaconda3:latest
+ascendai/cann:8.0.rc3.alpha002-910b-ubuntu22.04-py3.9
