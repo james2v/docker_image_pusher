@@ -42,3 +42,4 @@ fairembodied/habitat-challenge:homerobot-ovmm-challenge-2024-ubuntu22.04-v2
 fishaudio/fish-speech:latest-dev
 soar97/triton-sensevoice:24.05
 ghcr.io/ggerganov/whisper.cpp:main-cuda
+vllm/vllm-openai:v0.6.4
