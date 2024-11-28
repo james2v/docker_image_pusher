@@ -43,3 +43,4 @@ fishaudio/fish-speech:latest-dev
 soar97/triton-sensevoice:24.05
 ghcr.io/ggerganov/whisper.cpp:main-cuda
 vllm/vllm-openai:v0.6.4
+ghcr.io/swivid/f5-tts:main
