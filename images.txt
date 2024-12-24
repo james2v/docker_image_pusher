@@ -46,3 +46,4 @@ vllm/vllm-openai:v0.6.4
 ghcr.io/swivid/f5-tts:main
 approachingai/ktransformers:0.1.1
 harryliu888/cosyvoice:latest
+yaming116/sherpa-onnx-asr:latest
