@@ -48,3 +48,4 @@ approachingai/ktransformers:0.1.1
 harryliu888/cosyvoice:latest
 yaming116/sherpa-onnx-asr:latest
 docker.io/calico/node:v3.29.2
+calico/node:v3.29.2
