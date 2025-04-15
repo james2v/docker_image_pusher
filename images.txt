@@ -25,7 +25,6 @@ nvcr.io/nvidia/pytorch:24.06-py3
 zhishuailii/spider_envs:latest
 redis/redis-stack:latest
 llamastack/llamastack-local-gpu
-vllm/vllm-openai:v0.6.2
 pytorch/pytorch:2.4.1-cuda11.8-cudnn9-runtime
 pytorch/pytorch:2.4.1-cuda11.8-cudnn9-devel
 pytorch/pytorch:1.9.1-cuda11.1-cudnn8-runtime
@@ -42,7 +41,6 @@ fairembodied/habitat-challenge:homerobot-ovmm-challenge-2024-ubuntu22.04-v2
 fishaudio/fish-speech:latest-dev
 soar97/triton-sensevoice:24.05
 ghcr.io/ggerganov/whisper.cpp:main-cuda
-vllm/vllm-openai:v0.6.4
 ghcr.io/swivid/f5-tts:main
 approachingai/ktransformers:0.1.1
 harryliu888/cosyvoice:latest
@@ -52,3 +50,4 @@ calico/node:v3.29.2
 calico/cni:v3.29.2
 calico/node:v3.29.2
 calico/kube-controllers:v3.29.2
+vllm/vllm-openai:v0.7.3
